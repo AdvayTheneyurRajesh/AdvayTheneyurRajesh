@@ -61,7 +61,7 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
   
   
   <!-- BLOG-POST-LIST:START -->
-  free lanceing on  https://www.fiverr.com/share/EKWD49
+  support me  on  https://www.fiverr.com/share/EKWD49
 <!-- BLOG-POST-LIST:END -->
   
  
