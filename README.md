@@ -57,21 +57,12 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
   
   ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog writing  :
   
   
   <!-- BLOG-POST-LIST:START -->
+  free lanceing on  https://www.fiverr.com/share/EKWD49
 <!-- BLOG-POST-LIST:END -->
   
  
-jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
   
